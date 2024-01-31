@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, welcome to the <a href="https://ibrokhimweb.uz/](https://github.com/moonupuz" target="_blank">moonup</a> github page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
+<h1 align="center"> Hi there, welcome to the <a href="https://ibrokhimweb.uz/](https://github.com/moonupuz" target="_blank">moonup</a> GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
 <h3 align="center">MoonUp sales automation software</h3>  
 
